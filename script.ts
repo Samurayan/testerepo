@@ -1,0 +1,1 @@
+let data: {nm:string, em:string} = {nm:"juan",em: "juan@email.com"}
